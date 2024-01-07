@@ -1,0 +1,266 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+ }	
+ 
+section{
+        height:100vh;
+        background-color:#fafafa;
+}	
+
+.container1{
+           height:59vh;
+		   width:100%;
+		   background-color:#118ab2;
+		   margin:auto;
+}
+
+.box1{
+	  background-color:#ffd166;
+	  width:8%;
+	  height:104px;
+	  text-align:center;
+}
+
+.box2{
+	  background-color:#06d6a0;
+	  width:8%;
+	  height:104px;
+	  text-align:center;
+}
+
+.box3{
+	  background-color:#ef476f;
+	  width:8%;
+	  height:104px;
+	  text-align:center;
+}
+
+.box4{
+	  background-color:#f78c6b;
+	  width:8%;
+	  height:104px;
+	  text-align:center;
+}
+
+.box5{
+	  background-color:#83d483;
+	  width:8%;
+	  height:104px;
+	  text-align:center;
+}
+
+.box6{
+	  background-color:#073b4c;
+	  width:8%;
+	  height:104px;
+	  text-align:center;
+}
+
+.box7{
+	  background-color:#769fb6;
+	  width:8%;
+	  height:104px;
+	  text-align:center;
+}
+
+.box8{
+	  background-color:#d8b970;
+	  width:8%;
+	  height:104px;
+	  text-align:center;
+}
+
+.box9{
+	  background-color:#ed1d2e;
+	  width:8%;
+	  height:104px;
+	  text-align:center;
+}
+
+.box9{
+	  background-color:#073b4c;
+	  width:8%;
+	  height:104px;
+	  text-align:center;
+}
+
+.box10{
+	  background-color:#f78c6b;
+	  width:8%;
+	  height:104px;
+	  text-align:center;
+}
+
+.box11{
+	  background-color:#06d6a0;
+	  width:8%;
+	  height:104px;
+	  text-align:center;
+}
+
+.box12{
+	  background-color:#d8b970;
+	  width:8%;
+	  height:104px;
+	  text-align:center;
+}
+
+.box13{
+	  background-color:#ffd166;
+	  width:8%;
+	  height:104px;
+	  text-align:center;
+}
+
+.box14{
+	  background-color:#83d483;
+	  width:8%;
+	  height:104px;
+	  text-align:center;
+}
+
+.box15{
+	  background-color:#ed1d2e;
+	  width:8%;
+	  height:104px;
+	  text-align:center;
+}
+
+.box16{
+	  background-color:#ef476f;
+	  width:8%;
+	  height:104px;
+	  text-align:center;
+}
+
+.container2{
+	       display:flex;
+           height:15vh;
+		   width:100%;
+		   background-color:#118ab2;
+		   margin:auto;
+}
+
+.container3{
+	       display:flex;
+	       flex-direction:row;
+           height:15vh;
+		   width:100%;
+		   background-color:#118ab2;
+		   margin:auto;
+}
+
+.container4{
+	       display:flex;
+	       flex-direction:row-reverse;
+           height:15vh;
+		   width:100%;
+		   background-color:#118ab2;
+		   margin:auto;
+}
+
+.container5{
+	       display:flex;
+	       flex-direction:column;
+           height:59vh;
+		   width:100%;
+		   background-color:#118ab2;
+		   margin:auto;
+}
+
+.container6{
+	       display:flex;
+	       flex-direction:column-reverse;
+           height:59vh;
+		   width:100%;
+		   background-color:#118ab2;
+		   margin:auto;
+}
+
+.container7{
+	       display:flex;
+	       justify-content:start;
+           height:15vh;
+		   width:100%;
+		   background-color:#118ab2;
+		   margin:auto;
+}
+
+.container8{
+	       display:flex;
+	       justify-content:end;
+           height:15vh;
+		   width:100%;
+		   background-color:#118ab2;
+		   margin:auto;
+}
+
+.container9{
+	       display:flex;
+	       justify-content:center;
+           height:15vh;
+		   width:100%;
+		   background-color:#118ab2;
+		   margin:auto;
+}
+
+.container10{
+	       display:flex;
+	       justify-content:space-between;
+           height:15vh;
+		   width:100%;
+		   background-color:#118ab2;
+		   margin:auto;
+}
+
+.container11{
+	       display:flex;
+	       justify-content:space-around;
+           height:15vh;
+		   width:100%;
+		   background-color:#118ab2;
+		   margin:auto;
+}
+
+.container12{
+	       display:flex;
+	       justify-content:space-evenly;
+           height:15vh;
+		   width:100%;
+		   background-color:#118ab2;
+		   margin:auto;
+}
+
+.container13{
+	       display:flex;
+		   flex-direction:row;
+	       flex-wrap:nowrap;
+           height:15vh;
+		   width:100%;
+		   background-color:#118ab2;
+		   margin:auto;
+}
+
+.container14{
+	       display:flex;
+		   flex-direction:row;
+	       flex-wrap:wrap;
+           height:30vh;
+		   width:100%;
+		   background-color:#118ab2;
+		   margin:auto;
+}
+
+.container15{
+	       display:flex;
+		   flex-direction:row;
+	       flex-wrap:wrap-reverse;
+           height:30vh;
+		   width:100%;
+		   background-color:#118ab2;
+		   margin:auto;
+}
+
+		   
